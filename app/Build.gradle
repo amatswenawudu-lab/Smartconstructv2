@@ -1,5 +1,6 @@
 plugins { id 'com.android.application' }
 android {
+    namespace 'com.smartconstruct.game'
     compileSdk 34
     defaultConfig {
         applicationId "com.smartconstruct.game"
